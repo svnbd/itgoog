@@ -46,6 +46,7 @@ header .navbar a{
   padding: 10px 10px;
   color:var(--light-color);
   text-decoration: none;
+
 }
 
 header .navbar a.active,
@@ -212,9 +213,16 @@ nav.stroke ul li a:hover:after {
   }
 }
 
-@media (max-width:991px){
+@media (max-width:640px){
   html{
       font-size: 50%;
+  }
+
+}
+
+@media (max-width:896px){
+  html{
+      font-size: 40%;
   }
 
 }
