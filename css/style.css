@@ -103,13 +103,6 @@ section{
   background-color: var(--input-color);
 }   
 
- img {
- width: 70%;
- height: 30%;
- padding-left: 0 15px;
- 
-}
-
 /* NAVIGATION */
 /* nav ul {
     list-style: none;
